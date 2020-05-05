@@ -1,0 +1,5 @@
+test
+    - pseudo grila
+    - probleme rez. eficient(alg)
+    (inversarea continutului unui fisier)
+    

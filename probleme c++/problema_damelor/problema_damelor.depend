@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581939173 source:e:\probleme c++\problema_damelor\main.cpp
+	<iostream>
+	<fstream>
+

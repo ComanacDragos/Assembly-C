@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581971684 source:e:\probleme c++\aria\main.cpp
+	<iostream>
+	<stdio.h>
+	<fstream>
+

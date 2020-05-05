@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581798898 source:e:\probleme c++\suma_nr_div\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581360240 source:e:\probleme c++\longest_decreasing_subsequence\main.cpp
+	<iostream>
+	<fstream>
+

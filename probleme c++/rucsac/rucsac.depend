@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581506510 source:e:\probleme c++\rucsac\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\probleme c++\ssm_vs\Source.cpp(11,25): error C2131: expression did not evaluate to a constant
+E:\probleme c++\ssm_vs\Source.cpp(11,23): message : failure was caused by a read of a variable outside its lifetime
+E:\probleme c++\ssm_vs\Source.cpp(11,23): message : see usage of 'n'
+E:\probleme c++\ssm_vs\Source.cpp(13,13): warning C4552: '>>': result of expression not used

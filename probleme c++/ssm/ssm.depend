@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581761416 source:e:\probleme c++\ssm\main.cpp
+	<iostream>
+	<fstream>
+

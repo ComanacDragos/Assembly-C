@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581498286 source:e:\probleme c++\kfib\main.cpp
+	<iostream>
+	<fstream>
+

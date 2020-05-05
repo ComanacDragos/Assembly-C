@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581438070 source:e:\probleme c++\logarithmic_power\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1582645446 source:e:\probleme c++\bag\app.cpp
+	"Bag.h"
+	"ShortTest.h"
+	"ExtendedTest.h"
+	"second.cpp"
+	<iostream>
+
+1582323440 e:\probleme c++\bag\bag.h
+
+1582323440 e:\probleme c++\bag\shorttest.h
+
+1582323440 e:\probleme c++\bag\extendedtest.h
+
+1582323436 source:e:\probleme c++\bag\bag.cpp
+	"Bag.h"
+	"BagIterator.h"
+	<exception>
+	<iostream>
+
+1582323440 e:\probleme c++\bag\bagiterator.h
+	"Bag.h"
+
+1582323440 source:e:\probleme c++\bag\bagiterator.cpp
+	<exception>
+	"BagIterator.h"
+	"Bag.h"
+
+1582501562 source:e:\probleme c++\bag\extendedtest.cpp
+	<assert.h>
+	"Bag.h"
+	"ExtendedTest.h"
+	"BagIterator.h"
+	<iostream>
+	<vector>
+	<exception>
+
+1582323440 source:e:\probleme c++\bag\shorttest.cpp
+	"ShortTest.h"
+	<assert.h>
+	"Bag.h"
+	"BagIterator.h"
+
+1582645559 e:\probleme c++\bag\second.cpp
+	<iostream>
+
+1582645650 source:e:\probleme c++\bag\second.cpp
+	<iostream>
+
