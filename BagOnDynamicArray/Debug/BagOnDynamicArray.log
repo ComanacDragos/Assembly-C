@@ -1,0 +1,7 @@
+﻿  App.cpp
+  Bag.cpp
+  BagIterator.cpp
+  ExtendedTest.cpp
+  ShortTest.cpp
+  Generating Code...
+  BagOnDynamicArray.vcxproj -> E:\Assembly-C\BagOnDynamicArray\Debug\BagOnDynamicArray.exe
